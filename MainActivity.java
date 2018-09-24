@@ -1,5 +1,3 @@
-package com.example.eliascan.citwebstage;
-
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.os.Build;
